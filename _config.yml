@@ -1,0 +1,29 @@
+# Plugins
+gems:             ['jekyll-paginate', 'jekyll-gist', 'jekyll-github-metadata']
+
+# Dependencies
+highlighter:      rouge
+
+# Permalinks
+permalink: /:title/
+
+# Setup
+title:            16^2
+tagline:          Weeks of programming can save you hours of planning
+email:            whitten.zach@gmail.com  
+description:      "© 2018 Zachary Whitten. All Rights Reserved"
+github_username:  zach-256
+url:              /
+baseurl:          /
+include: ["_pages"]
+
+author:
+  name:           'Karlo Espiritu'
+  url:            https://twitter.com/karloespiritu
+
+paginate:         5
+
+# Custom vars
+version:          1.0.1
+instagram:	  whitten_zach
+
