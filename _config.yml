@@ -13,14 +13,10 @@ tagline:          Weeks of programming can save you hours of planning
 email:            whitten.zach@gmail.com  
 description:      "© 2018 Zachary Whitten. All Rights Reserved"
 github_username:  zach-256
-url:              zach-256.github.io/
-baseurl:	  /
+url:              https://zach-256.github.io
+baseurl:          /
          
 include: ["_pages"]
-
-author:
-  name:           'Karlo Espiritu'
-  url:            https://twitter.com/karloespiritu
 
 paginate:         5
 
@@ -28,3 +24,6 @@ paginate:         5
 version:          1.0.2
 instagram:	  whitten_zach
 
+exclude:
+  - .gitignore
+  - readme.md
