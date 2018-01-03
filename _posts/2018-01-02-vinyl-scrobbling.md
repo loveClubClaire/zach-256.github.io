@@ -115,23 +115,23 @@ With the successful instillation of scrobble.py, we have successfully implemente
 <tbody style="background-color:rgba(0, 0, 0, 0);">
 <tr style="background-color:rgba(0, 0, 0, 0);">
 <td style="background-color:rgba(0, 0, 0, 0); border:none;">
-<img src="/public/images/audioscrobbler1.jpg" alt="Raspberry Pi case" style="width: 400px; display: block; margin-left: auto; margin-right: auto;"/>
+<a href="/public/images/audioscrobbler1.jpg" target="_blank"><img src="/public/images/audioscrobbler1.jpg" alt="Raspberry Pi case" style="width: 400px; display: block; margin-left: auto; margin-right: auto;"/></a>
 </td>
 <td style="background-color:rgba(0, 0, 0, 0); border:none;">
-<img src="/public/images/audioscrobbler2.jpg" alt="Like really poorly constructed Raspberry Pi case" style="width: 400px; display: block; margin-left: auto; margin-right: auto;"/>
+<a href="/public/images/audioscrobbler2.jpg" target="_blank"><img src="/public/images/audioscrobbler2.jpg" alt="Like really poorly constructed Raspberry Pi case" style="width: 400px; display: block; margin-left: auto; margin-right: auto;"/></a>
 </td>
 </tr>
 <tr>
 <td style="background-color:rgba(0, 0, 0, 0); border:none;">
-<img src="/public/images/audioscrobblerMount1.jpg" alt="Mount shot 1" style="width: 400px; display: block; margin-left: auto; margin-right: auto;"/>
+<a href="/public/images/audioscrobblerMount1.jpg" target="_blank"><img src="/public/images/audioscrobblerMount1.jpg" alt="Mount shot 1" style="width: 400px; display: block; margin-left: auto; margin-right: auto;"/></a>
 </td>
 <td style="background-color:rgba(0, 0, 0, 0); border:none;">
-<img src="/public/images/audioscrobblerMount2.jpg" alt="Mount shot 2" style="width: 400px; display: block; margin-left: auto; margin-right: auto;"/>
+<a href="/public/images/audioscrobblerMount2.jpg" target="_blank"><img src="/public/images/audioscrobblerMount2.jpg" alt="Mount shot 2" style="width: 400px; display: block; margin-left: auto; margin-right: auto;"/></a>
 </td>
 </tr>
 </tbody>
 </table>
-<img src="/public/images/audioscrobblerPlayer.jpg" alt="The setup" style="width: 400px; padding-right: 50px; display: block; margin-left: auto; margin-right: auto;"/>
+<a href="/public/images/audioscrobblerPlayer.jpg" target="_blank"><img src="/public/images/audioscrobblerPlayer.jpg" alt="The setup" style="width: 400px; padding-right: 50px; display: block; margin-left: auto; margin-right: auto;"/></a>
 
 
 
