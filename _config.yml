@@ -14,7 +14,7 @@ email:            whitten.zach@gmail.com
 description:      "© 2018 Zachary Whitten. All Rights Reserved"
 github_username:  zach-256
 #url:              https://zach-256.github.io/
-baseurl:	  zach/
+#baseurl:	  zach/
          
 include: ["_pages"]
 
